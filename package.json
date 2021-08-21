@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "gradlew": "^0.0.1-security",
     "haxelib": "^0.1.7"
   }
 }
